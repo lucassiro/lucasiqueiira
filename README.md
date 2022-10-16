@@ -1,7 +1,7 @@
 ### Hi, I'm Lucas Siqueira 👋
 
-I'm finishing my degree in chemistry and studying big data and analytical intelligence.</br>
-I am a Python programmer, at university I had contact with computational chemistry.</br>
-I am currently studying to become a data scientist or machine learning engineer.</br>
+I'm finishing my degree in chemistry and studying big data and analytics.</br>
+I'm a Python programmer, at university I had contact with computational chemistry.</br>
+I am currently an intern in Artificial Intelligence at Cromai.</br>
 
 **Welcome to my github.**
