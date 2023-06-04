@@ -5,7 +5,7 @@ I'm a Python programmer, at university I had contact with computational chemistr
 I am currently Artificial Intelligence developer at Cromai.</br>
 
 <a href="https://www.linkedin.com/in/lucasiqueiira/">Linkedin</a><br>
-<a href="https://github.com/lucasiqueiira/Portfolio">Portfolio</a><br>
+<a href="https://github.com/lucassiro/Portfolio">Portfolio</a><br>
 e-mail: siqueiraq@gmail.com
 
 
