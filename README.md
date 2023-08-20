@@ -14,10 +14,10 @@ I am currently Artificial Intelligence developer at Cromai.</br>
 
 </br>
 
-<a href="https://docs.google.com/document/d/1vZgTr0JApc0GMNfZDwu2CqRnPLTThpC_">
+<a href="https://docs.google.com/document/d/1DJyR7Kfxags03jkXI-ihKImqRFTdGZqtSnPoGUKK_P0">
     <img src="https://img.shields.io/badge/Resume_(English)-0A3161?style=for-the-badge" />
 </a>
-<a href="https://docs.google.com/document/d/1YO1Uh41mUy1ZMsP7oIGAwoE4DhjuE8Q1">
+<a href="https://docs.google.com/document/d/1bOsXc7wf0aHkAeLhDaSy0_iE28AQerk9RrvA6uQRLwY">
     <img src="https://img.shields.io/badge/Resume_(Portuguese)-009739?style=for-the-badge" />
 </a>
 
