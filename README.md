@@ -6,8 +6,8 @@ MBA in Data Science and Analytics.</br>
 <a href="https://www.linkedin.com/in/lucassiro/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.datascienceportfol.io/lucassiro">
-  <img src="https://img.shields.io/badge/Portfolio-F5463F?style=for-the-badge"/>
+<a href="https://github.com/lucassiro/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio%20on%20Github-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
   
 <strong>E-mail</strong>: siqueiraq@gmail.com
